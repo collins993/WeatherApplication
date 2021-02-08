@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+    <string name="location">Location</string>
+    <string name="clear">Clear Skys</string>
+</resources>
